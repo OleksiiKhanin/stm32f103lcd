@@ -1,0 +1,10 @@
+.settings
+.settings/*
+Debug
+Debug/*
+.cproject
+.project
+.idea
+.idea/*
+cmake-bui*
+
